@@ -66,7 +66,7 @@ Place these two files in the same directory as the notebook:
 ## How to Reproduce
 
 ### Step 1 — Open the notebook
-Open `i23-XXXX_Assignment2.ipynb` in Kaggle or Jupyter.
+Open `i232649_A2.ipynb` in Kaggle or Jupyter.
 
 ### Step 2 — Enable GPU (Kaggle)
 Go to **Settings → Accelerator → GPU T4 x2** before running.
